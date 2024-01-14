@@ -11,4 +11,4 @@
     conda create -p venv python==3.12
     '''
 
-    Work has stopped because environment is not activating.
+    Environment was not activating. So we have installed all python libraries in base environment.
